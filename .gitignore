@@ -29,6 +29,9 @@ log
 .env*
 config/.env.*
 
+#exercise files
+ex3.pdf
+
 discovery.cache
 /.sass-cache
 # Ignore database.yml. Use database.yml.example to configure
