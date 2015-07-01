@@ -31,6 +31,7 @@ config/.env.*
 
 #exercise files
 ex3.pdf
+smartNotification2/octave-workspace
 
 discovery.cache
 /.sass-cache
